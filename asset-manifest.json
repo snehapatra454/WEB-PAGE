@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_dashboard%20/static/css/main.31f2f625.css",
+    "main.js": "/react_dashboard%20/static/js/main.cc2d198e.js",
+    "static/media/plant-image.jpg": "/react_dashboard%20/static/media/plant-image.7334617e72b11857777c.jpg",
+    "index.html": "/react_dashboard%20/index.html",
+    "main.31f2f625.css.map": "/react_dashboard%20/static/css/main.31f2f625.css.map",
+    "main.cc2d198e.js.map": "/react_dashboard%20/static/js/main.cc2d198e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f2f625.css",
+    "static/js/main.cc2d198e.js"
+  ]
+}
